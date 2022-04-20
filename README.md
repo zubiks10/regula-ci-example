@@ -1,4 +1,4 @@
-# regula-ci-example
+# regula-ci-example 2
 
 [Regula](https://github.com/fugue/regula) is a tool that evaluates CloudFormation and Terraform infrastructure-as-code for potential AWS, Azure, and Google Cloud security misconfigurations and compliance violations prior to deployment. This repo contains examples of using [regula] in CI.
 
